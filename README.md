@@ -6,7 +6,7 @@ L'architettura è sviluppata in ambiente WordPress tramite codice custom, sfrutt
 
 ---
 
-## 🛠️ Stack Tecnico & Strumenti
+## Stack Tecnico & Strumenti
 
 Il progetto è stato realizzato curando l'intero workflow, dall'ideazione visiva allo sviluppo tecnico:
 
@@ -19,7 +19,7 @@ Il progetto è stato realizzato curando l'intero workflow, dall'ideazione visiva
 
 ---
 
-## 📐 Architettura WordPress & Struttura delle Pagine
+## Architettura WordPress & Struttura delle Pagine
 
 L'organizzazione dei file sfrutta la gerarchia nativa dei template di WordPress per separare nettamente le logiche di visualizzazione dei contenuti dinamici.
 
